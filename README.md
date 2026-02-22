@@ -9,4 +9,4 @@ A final evaluation was performed on a separate test set, including a classificat
 The results show that all models perform strongly on the dataset. Logistic Regression provides stable and well-balanced results, Complement Naive Bayes performs efficiently on text-based features, 
 and the Neural Network achieves the highest overall performance in terms of F1-score and ROC-AUC.
 
-This project demonstrates the comparison between classical machine learning models and a neural network.
+This project demonstrates the comparison between classical machine learning models and a neural network
